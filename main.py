@@ -1,1 +1,1 @@
-print('Hello world')
+print('geodezja i geoinformatyka rzadzi111')
