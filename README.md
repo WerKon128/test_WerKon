@@ -1,3 +1,3 @@
 # test_WerKon
 
-to jest wpis testowy, i dodani poprawke 
+Projekt poświęcony testowaniu technologii gitworkflow w budowie kodu.
